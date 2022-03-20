@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on risotto demo</title>
-    <link>https://risotto.joeroe.io/series/</link>
-    <description>Recent content in Series on risotto demo</description>
+    <title>Series on Risotto Solarized Demo</title>
+    <link>https://draconis-25.github.io/risotto-solarized-test/series/</link>
+    <description>Recent content in Series on Risotto Solarized Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2021 Joe Roe</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://risotto.joeroe.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2021 Yusuf Yavuzyigit</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://draconis-25.github.io/risotto-solarized-test/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>https://risotto.joeroe.io/series/themes-guide/</link>
+      <link>https://draconis-25.github.io/risotto-solarized-test/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://risotto.joeroe.io/series/themes-guide/</guid>
+      <guid>https://draconis-25.github.io/risotto-solarized-test/series/themes-guide/</guid>
       <description></description>
     </item>
     
